@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400984323581",
+    "firebase_url": "https://astrology-d074b.firebaseio.com",
+    "project_id": "astrology-d074b",
+    "storage_bucket": "astrology-d074b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400984323581:android:7cbbcdc607ca81758a1594",
+        "android_client_info": {
+          "package_name": "com.example.astrology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400984323581-o9n7rl9ppnfvkvmss5t570pdosaqfmv5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.astrology",
+            "certificate_hash": "6defe84df0c1d5dcd23aa30c6b66773c08fbe475"
+          }
+        },
+        {
+          "client_id": "400984323581-9ao23oh1e1cpr29ma3hu4k914giqi42n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmVZVk7xLKUaOGWq_e5_gfTJzqBxPz6IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400984323581-9ao23oh1e1cpr29ma3hu4k914giqi42n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">राशिफल</string>
+    <string name="selectZodiac">कृप्या अपनी राशि चुनें</string>
+    <string name="mesh">मेष</string>
+    <string name="vrushabh">वृषभ</string>
+    <string name="mithun">मिथुन</string>
+    <string name="kark">कर्क</string>
+    <string name="sinh">सिंह</string>
+    <string name="kanya">कन्या</string>
+    <string name="tula">तुला</string>
+    <string name="vrushchik">वृश्चिक</string>
+    <string name="dhanu">धनु</string>
+    <string name="makar">मकर</string>
+    <string name="kumbha">कुंभ</string>
+    <string name="meen">मीन</string>
+    <string name="small_banner_id">ca-app-pub-9587139058565929/1788475884</string>
+    <string name="save">प्रोफाइल सेव करें</string>
+    <string name="full_name">पूरा नाम</string>
+    <string name="name_hint">यहां अपना पूरा नाम डालें</string>
+    <string name="profile_details">प्रोफ़ाइल विवरण</string>
+    <string name="phone_number">फ़ोन नंबर</string>
+    <string name="phone_hint">यहां अपना फ़ोन नंबर डालें</string>
+    <string name="welcome">आपका स्वागत है</string>
+    <string name="morning">शुभ प्रभात</string>
+    <string name="noon">शुभ दोपहर</string>
+    <string name="evening">शुभ संध्या</string>
+    <string name="night">शुभ रात्रि</string>
+</resources>

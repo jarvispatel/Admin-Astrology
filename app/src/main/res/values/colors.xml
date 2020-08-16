@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FEC107</color>
+    <color name="colorPrimaryDark">#e4ac01</color>
+    <color name="colorAccent">#FECD04</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#fff9e6</color>
+    <color name="lightBlack">#837979</color>
+    <color name="darkBlack">#000000</color>
+    <color name="navHeaderColor">#FECD04</color>
+    <color name="fontColor">#78451A</color>
+    <color name="gray_back">#F2F4F7</color>
+    <color name="edt_font_color">#002251</color>
+    <color name="font_color_gray">#7A869A</color>
+    <color name="font_color_light_gray">#C1C7D0</color>
+    <color name="home_header_color">#FAFAFA</color>
+    <color name="dialog_back_color">#99000000</color>
+    <color name="user_intro_color">#5168FF</color>
+    <color name="black_over">#1E2022</color>
+    <color name="about_text_color">#6D7278</color>
+    <color name="background_new">#F8DF94</color>
+</resources>
